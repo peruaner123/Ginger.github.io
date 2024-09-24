@@ -14,10 +14,10 @@
              It's also a common remedy for colds and upset stomachs.</h3> <br> <br>
         <img src="GingerLove/ginger.jpg" height="250" alt="GingerRoot" title="Ginger Root"> 
         <h3> You can use ginger both fresh for a zesty kick or dried for a more concentrated, warm flavor. </h3> <br> <br>
-        <img src="C:\Users\Code\OneDrive\Desktop\PicturesForNewWebsite/GingerLemonTee.jpg" height="250" alt="Ginger Lemon" title="Ginger&Lemon">    
+        <img src="GingerLove/SpicesGingerKurkuma.jpg" height="250" alt="Ginger Lemon" title="Ginger&Lemon">    
         <h3>Ginger and lemon are a perfect combination, offering a refreshing blend of warmth and tanginess. <br>
             Together, they boost immunity, aid digestion, and create a soothing drink for cold days.</h3>
-        <img src="C:\Users\Code\OneDrive\Desktop\PicturesForNewWebsite/SpicesGingerKurkuma.jpg" height="250" alt="Ginger Lemon" title="Ginger&Kurkuma"> <br>    
+        <img src="GingerLove/SpicesGingerKurkuma.jpg" height="250" alt="Ginger Lemon" title="Ginger&Kurkuma"> <br>    
         <h3> Turmeric and ginger make a powerful combination, blending earthy warmth with a subtle spice. Together, <br>
              they offer strong anti-inflammatory benefits and enhance the flavor of both savory dishes and wellness drinks.</h3>
         
